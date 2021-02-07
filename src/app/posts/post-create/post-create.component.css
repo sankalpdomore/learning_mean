@@ -1,7 +1,7 @@
 mat-card{
   margin: auto;
   margin-top: 20px;
-  background-color: #ffffff;
+  background-color: red;
   color: black;
   border: 1px solid #f5f5f5;
 }
