@@ -1,0 +1,16 @@
+mat-card{
+  margin: auto;
+  margin-top: 20px;
+  background-color: #ffffff;
+  color: black;
+  border: 1px solid #f5f5f5;
+}
+
+mat-form-field,
+textarea{
+  width: 100%;
+}
+
+mat-label{
+  color: #555555;
+}
